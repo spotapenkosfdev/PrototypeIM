@@ -1,7 +1,13 @@
 #################
-## Eclipse
+## JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 #################
 
+.idea/
+
+#################
+## Eclipse
+#################
+#stas test
 *.pydevproject
 .project
 .metadata
